@@ -1,0 +1,758 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(519,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  aimbot.cpp
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(41,16): warning C4091: 'typedef ': ignored on left of '_MU' when no variable is declared
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(69,30): warning C4129: '{': unrecognized character escape sequence
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(57,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(58,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(59,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(61,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(62,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(63,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(64,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(65,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(66,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(68,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(69,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(70,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(72,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(73,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(74,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(75,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(77,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(78,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(79,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(80,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(82,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(83,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(84,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(85,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(141,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(142,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(143,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(167,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(168,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(169,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/aimbot/aimbot.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\aimbot\aimbot.cpp(60,36): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\aimbot\aimbot.cpp(60,26): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+  render.cpp
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(41,16): warning C4091: 'typedef ': ignored on left of '_MU' when no variable is declared
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(69,30): warning C4129: '{': unrecognized character escape sequence
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(57,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(58,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(59,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(61,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(62,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(63,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(64,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(65,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(66,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(68,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(69,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(70,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(72,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(73,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(74,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(75,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(77,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(78,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(79,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(80,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(82,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(83,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(84,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(85,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(141,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(142,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(143,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(167,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(168,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(169,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/render/render.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\render\render.cpp(144,33): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\external\render\render.cpp(145,33): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\external\render\render.cpp(162,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\external\render\render.cpp(162,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  cache.cpp
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(41,16): warning C4091: 'typedef ': ignored on left of '_MU' when no variable is declared
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(69,30): warning C4129: '{': unrecognized character escape sequence
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(57,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(58,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(59,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(61,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(62,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(63,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(64,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(65,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(66,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(68,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(69,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(70,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(72,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(73,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(74,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(75,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(77,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(78,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(79,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(80,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(82,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(83,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(84,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(85,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(141,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(142,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(143,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(167,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(168,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(169,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/cache/cache.cpp')
+  
+  visuals.cpp
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(41,16): warning C4091: 'typedef ': ignored on left of '_MU' when no variable is declared
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(69,30): warning C4129: '{': unrecognized character escape sequence
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(57,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(58,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(59,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(61,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(62,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(63,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(64,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(65,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(66,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(68,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(69,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(70,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(72,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(73,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(74,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(75,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(77,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(78,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(79,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(80,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(82,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(83,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(84,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(85,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(141,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(142,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(143,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(167,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(168,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(169,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'core/features/visuals/visuals.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(12,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(13,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(14,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(14,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(14,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(14,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(15,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(15,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(15,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(15,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(16,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(16,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(16,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(16,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(17,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(17,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(17,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(17,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(18,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(18,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(18,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(18,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(19,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(19,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(19,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(19,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(20,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(20,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(20,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(20,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(21,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(21,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(21,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(21,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(26,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(27,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(28,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(28,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(28,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(28,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(29,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(29,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(29,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(29,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(30,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(30,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(30,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(30,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(31,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(31,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(31,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(31,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(32,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(32,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(32,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(32,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(33,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(33,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(33,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(33,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(34,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(34,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(34,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(34,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(35,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(35,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(35,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(35,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(44,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(79,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(80,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(81,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(82,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(84,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(90,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(90,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(90,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(90,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(94,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(94,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(94,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(94,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(102,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(102,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(109,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(109,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(109,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(109,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(113,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(113,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(113,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(113,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(121,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(121,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(121,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(121,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(125,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(125,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(125,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(125,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\ParadiseFN\core\features\visuals\visuals.cpp(135,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  entry.cpp
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(41,16): warning C4091: 'typedef ': ignored on left of '_MU' when no variable is declared
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(69,30): warning C4129: '{': unrecognized character escape sequence
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(57,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(58,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(59,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(61,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(62,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(63,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(64,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(65,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(66,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(68,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(69,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(70,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(72,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(73,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(74,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(75,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(77,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(78,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(79,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(80,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(82,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(83,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(84,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(85,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(141,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(142,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(143,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(167,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(168,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(169,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'entry.cpp')
+  
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  menu.cpp
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\math\vector.hpp(21,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(41,16): warning C4091: 'typedef ': ignored on left of '_MU' when no variable is declared
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\external\communication\communication.hpp(69,30): warning C4129: '{': unrecognized character escape sequence
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(57,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(58,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(59,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(61,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(62,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(63,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(64,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(65,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(66,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(68,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(69,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(70,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(72,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(73,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(74,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(75,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(77,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(78,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(79,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(80,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(82,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(83,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(84,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(85,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(141,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(142,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(143,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(167,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(168,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+C:\Users\Administrator\Desktop\ParadiseFN\updater\sdk\sdk.hpp(169,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'external/menu/menu.cpp')
+  
+  Generating code
+  122 of 2054 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    48 functions were new in current compilation
+    68 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ParadiseFN.vcxproj -> C:\Users\Administrator\Desktop\ParadiseFN\build\Jeremy's Base.exe
